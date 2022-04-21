@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 嗨~你好
 
 You can use the [editor on GitHub](https://github.com/hilrc/hilrc.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
